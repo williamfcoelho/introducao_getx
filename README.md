@@ -1,6 +1,6 @@
 # introducao_getx
 
-A new Flutter project whit Getx.
+A new Flutter project for learning the Getx concepts.
 
 ## Getting Started
 
