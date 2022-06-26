@@ -1,6 +1,6 @@
 # introducao_getx
 
-A new Flutter project whint Getx.
+A new Flutter project whit Getx.
 
 ## Getting Started
 
